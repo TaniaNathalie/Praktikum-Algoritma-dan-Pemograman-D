@@ -1,0 +1,5 @@
+Tabungan = 300000,00
+Tabungan = 425000,00
+Tabungan = 470000,00
+Tabungan = 360000,00
+Tabungan = 455000,00
